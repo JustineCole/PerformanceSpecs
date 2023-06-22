@@ -31,3 +31,5 @@ L - Bar charts showing misclassifications based on non-HDL-C, using current and 
 M - Summary of misclassification rates based on calculated LDL-C, direct LDL-C and non-HDL-C, using current and new performance specs
 
 N - Analytical and sample replicates to address analytical and biological variability, respectively
+
+O - Box and whisker chart summarising misclassification rates in each version of each scenario, and t-tests of the differences.
